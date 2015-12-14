@@ -1,0 +1,46 @@
+/*
+This file should be altered to fit your needs.
+*/
+/* Entire game area */
+#sitronTeGF-content {
+	font-size:14px;
+	background-color:#333;
+	color:#ccc;
+	width:800px;
+	height:640px;
+}
+/* Three lines */
+#sitronTeGF-header {
+	font-size:18px;
+	height:5%;
+	color:inherit;
+	background:inherit;
+}
+#sitronTeGF-body {
+	height:83%;
+}
+#sitronTeGF-footer {
+	height:12%;
+}
+#sitronTeGF-footer button {
+	height:100%;
+}
+/* Center line/body elements */
+#sitronTeGF-body-left {
+	vertical-align: top;
+	width:19%;
+}
+#sitronTeGF-body-center {
+	width:80%;
+}
+#sitronTeGF-body-right {
+	width:1%;
+}
+#sitronTeGF-body-left input {
+	width:80%;
+}
+
+/**/
+.small {
+	font-size:75%;
+}
